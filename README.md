@@ -6,7 +6,7 @@
 - Kenya Certificate of Primary Education | White Star Academy (_2007 - 2014_)
 
 ### Experience
-**Internship at Portable Car Engineering Environment (_PCEE_)
+**Internship at Portable Car Engineering Environment (_PCEE_)**
   - Model development
   - Data cleaning, preprocessing and analytics
   - Anomaly detection
